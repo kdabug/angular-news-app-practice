@@ -1,5 +1,7 @@
 # AngularMaterialNewsApp
 
+To run this project -> `npm install --save @angular/material @angular/animations @angular/cdk`. This project is created following [How To Build A News Application With Angular 6 And Material Design](https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
 ## Development server
